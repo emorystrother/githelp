@@ -1,3 +1,7 @@
+# GENERAL NOTES
+  # database is called task
+  # first data entry named i
+
 Githelp::Application.routes.draw do
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
@@ -39,7 +43,7 @@ Githelp::Application.routes.draw do
   #       get 'recent', on: :collection
   #     end
   #   end
-  
+
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'

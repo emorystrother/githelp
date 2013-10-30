@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  task_master: MyString
+  doer: MyString
+  time_posted: 2013-10-30 09:26:26
+  time_accepted: 2013-10-30 09:26:26
+  required_trust_rating: 1.5
+  type_of_chore: MyString
+  descriptiong_of_chore: MyString
+  review_of_doer: 1.5
+  review_of_task-master: 1.5
+  minimum_price: 1.5
+  price: 1.5
+  time_frame: 2013-10-30 09:26:26
+  immediate_yes_no: false
+  how_long_take: 1.5
+  estimated_duration: 1.5
+
+two:
+  task_master: MyString
+  doer: MyString
+  time_posted: 2013-10-30 09:26:26
+  time_accepted: 2013-10-30 09:26:26
+  required_trust_rating: 1.5
+  type_of_chore: MyString
+  descriptiong_of_chore: MyString
+  review_of_doer: 1.5
+  review_of_task-master: 1.5
+  minimum_price: 1.5
+  price: 1.5
+  time_frame: 2013-10-30 09:26:26
+  immediate_yes_no: false
+  how_long_take: 1.5
+  estimated_duration: 1.5
